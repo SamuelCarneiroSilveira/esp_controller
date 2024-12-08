@@ -8,4 +8,4 @@ This code sets up an ESP32 receiver using ESP-NOW to receive messages. When the 
 ## Transmitter PCB
 Easy EDA Link: https://oshwlab.com/samuelsilveira14/espnow_receiver
 
-* The receiver doesn't require a pcb, aside from the esp32.
+* The receiver doesn't require a pcb, aside from the esp32. 
